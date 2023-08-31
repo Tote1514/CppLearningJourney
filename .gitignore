@@ -5,5 +5,3 @@
 # Compiled binary executables
 *.exe
 *.out
-
-/.vscode
