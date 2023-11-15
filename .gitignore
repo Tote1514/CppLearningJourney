@@ -9,3 +9,5 @@
 
 /.vscode
 /AED2
+**/a.out/** 
+**/*.dSYM/**
